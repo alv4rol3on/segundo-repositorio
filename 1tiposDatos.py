@@ -1,4 +1,3 @@
-print("Hola mundo")
 
 print("Bienvenido al 1er programa")
 print("------------------------------")
