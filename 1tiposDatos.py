@@ -38,3 +38,4 @@ print(cadena2.replace("sin reemplazar","reemplazada"))#(parte por reemplazar, po
 
 #operaciones
 print(7*2)
+print(7+2)
